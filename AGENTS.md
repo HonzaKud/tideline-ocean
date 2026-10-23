@@ -1,0 +1,3 @@
+# Project instructions — Tideline
+
+Independent public ocean design website. Preserve quiet, joyful awe of the sea, sunlight and human-free broad scenes. Distinct immersive editorial composition, no generic cards or info portal. English minimal copy. Sound off by default. Free licensed media only; document provenance in MEDIA-SOURCES.md. Prefer local media and no tracking. Never expose credentials. Test `npm run build`, keyboard controls, audio lifecycle, motion pause, mobile overflow and reduced motion. GitHub Pages relative base ./, no runtime backend. Do not couple this project to the other three repositories.
